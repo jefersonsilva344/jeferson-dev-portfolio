@@ -1,7 +1,6 @@
 
----
 
-Cole este código:
+
 
 ```python
 import csv
