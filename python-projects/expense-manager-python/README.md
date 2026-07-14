@@ -28,4 +28,4 @@ A simple personal expense management system built with Python.
 Clone this repository:
 
 ```bash
-git clone https://github.com/jefersonsilva344/jeferson-dev-portfolio.git
+https://github.com/jefersonsilva344/jeferson-dev-portfolio.git
